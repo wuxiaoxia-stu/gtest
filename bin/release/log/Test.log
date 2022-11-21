@@ -1,0 +1,17 @@
+﻿[2022-06-23  11:46:33:881]ModuleCommon : info  :  the thread  start !!!,  info:http manager, thread id:33964
+[2022-06-23  11:46:33:982]ModuleLogic  : error :  初始化主任秘钥失败， 请检查相关库! (FSShell.dll)
+[2022-06-23  11:46:33:985]ModuleCommon : info  :  the thread  start !!!,  info:, thread id:9392
+[2022-06-23  11:46:34:087]ModuleCommon : info  :  the thread  start !!!,  info:Paics Manager, thread id:25804
+[2022-06-23  11:46:34:188]ModuleLogic  : info  :  Init Sdk end
+[2022-06-23  11:46:34:188]ModuleCommon : info  :  the thread  start !!!,  info:Cmd Channel, thread id:9088
+[2022-06-23  11:46:34:602]ModuleLogic  : info  :  CreateCaseVideoObj CaseReader Index:1, obj:2115916939152
+[2022-06-23  11:46:35:778]ModuleLogic  : debug :  CaseVideoInit, CaseReader Index:1, obj:2115916939152
+[2022-06-23  11:46:35:778]ModuleLogic  : info  :  CaseVideoInit, path:D:\testCaseSaveNew\12234\test, openType:1, m_bCaseAtLocal:1
+[2022-06-23  11:46:36:134]ModuleCommon : info  :  the thread  start !!!,  info:, thread id:23860
+[2022-06-23  11:46:36:234]ModuleLogic  : info  :  CaseVideoInit, path:D:\testCaseSaveNew\12234\test,RunTime:0.456 s, case length:42800
+[2022-06-23  11:46:36:841]ModuleLogic  : info  :  CaseVideoPlay, start:0, end:0, thisTime:0, m_bCaseAtLocal:1,
+[2022-06-23  11:46:36:961]ModuleVideo  : debug :  播放器 seek m_llSeekTime:40, read pts:40,  bKeyFrame:1
+[2022-06-23  11:46:37:692]ModuleLogic  : info  :  connect server ip=192.168.1.79, port=8009, 连接失败 , checkTime:10 s!
+[2022-06-23  11:46:38:569]ModuleLogic  : info  :  关闭病例 开始,  path:D:\testCaseSaveNew\12234test, Index:2115916939152
+[2022-06-23  11:46:38:570]ModuleCommon : info  :  the thread is out !!!,  info:, thread id:23860, nRet = 0
+[2022-06-23  11:46:38:571]ModuleLogic  : info  :  关闭病例 结束,  path:D:\testCaseSaveNew\12234test

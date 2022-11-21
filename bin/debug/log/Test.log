@@ -1,0 +1,32 @@
+﻿[2022-07-21  16:18:55:124]ModuleLogic  : info  :  Init Sdk begin
+[2022-07-21  16:18:56:190]ModuleLogic  : info  :  Init net and obj begin
+[2022-07-21  16:18:56:191]ModuleCommon : info  :  the thread  start !!!,  info:http manager, thread id:40576
+[2022-07-21  16:18:56:293]ModuleCommon : info  :  the thread  start !!!,  info:, thread id:11168
+[2022-07-21  16:18:56:395]ModuleCommon : info  :  the thread  start !!!,  info:Paics Manager, thread id:68288
+[2022-07-21  16:18:56:496]ModuleLogic  : info  :  Init Sdk end
+[2022-07-21  16:18:56:498]ModuleCommon : info  :  the thread  start !!!,  info:Cmd Channel, thread id:4208
+[2022-07-21  16:18:59:601]ModuleLogic  : info  :  connect server ip=192.168.1.79, port=8009, 连接失败 , checkTime:10 s!
+[2022-07-21  16:23:54:292]ModuleCommon : error :  the thread is runng !!!, info:Cmd Channel, thread id:4208
+[2022-07-21  16:23:54:833]ModuleCommon : error :  the thread is runng !!!, info:Cmd Channel, thread id:4208
+[2022-07-21  16:23:57:304]ModuleLogic  : info  :  connect server ip=192.168.1.79, port=8009, 连接失败 , checkTime:10 s!
+[2022-07-21  16:23:57:309]ModuleCommon : error :  the thread is runng !!!, info:Cmd Channel, thread id:4208
+[2022-07-21  16:23:57:310]ModuleLogic  : info  :  Release Ai model ! nRet == 0
+[2022-07-21  16:23:57:505]ModuleCommon : info  :  the thread is out !!!,  info:Cmd Channel, thread id:4208, nRet = 0
+[2022-07-21  16:23:57:510]ModuleCommon : info  :  the thread is out !!!,  info:http manager, thread id:40576, nRet = 0
+[2022-07-21  16:23:57:510]ModuleLogic  : info  :  AYJ::CAyjPaicsMain::SdkRelease 
+[2022-07-21  16:23:57:510]ModuleLogic  : info  :  AYJ::CAyjPaicsMain::SdkRelease 
+[2022-07-21  16:23:57:513]ModuleCommon : info  :  the thread is out !!!,  info:Paics Manager, thread id:68288, nRet = 0
+[2022-07-21  16:23:58:927]ModuleLogic  : info  :  Init Sdk begin
+[2022-07-21  16:23:58:927]ModuleLogic  : info  :  Init net and obj begin
+[2022-07-21  16:23:58:927]ModuleCommon : info  :  the thread  start !!!,  info:http manager, thread id:71688
+[2022-07-21  16:23:59:028]ModuleCommon : info  :  the thread  start !!!,  info:, thread id:67796
+[2022-07-21  16:23:59:129]ModuleCommon : info  :  the thread  start !!!,  info:Paics Manager, thread id:72044
+[2022-07-21  16:23:59:230]ModuleLogic  : info  :  Init Sdk end
+[2022-07-21  16:23:59:230]ModuleCommon : info  :  the thread  start !!!,  info:Cmd Channel, thread id:70820
+[2022-07-21  16:23:59:661]ModuleLogic  : info  :  Release Ai model ! nRet == 0
+[2022-07-21  16:23:59:661]ModuleLogic  : info  :  connect server ip=192.168.1.79, port=8009, 连接失败 , checkTime:10 s!
+[2022-07-21  16:23:59:862]ModuleCommon : info  :  the thread is out !!!,  info:Cmd Channel, thread id:70820, nRet = 0
+[2022-07-21  16:23:59:863]ModuleCommon : info  :  the thread is out !!!,  info:http manager, thread id:71688, nRet = 0
+[2022-07-21  16:23:59:863]ModuleLogic  : info  :  AYJ::CAyjPaicsMain::SdkRelease 
+[2022-07-21  16:23:59:863]ModuleLogic  : info  :  AYJ::CAyjPaicsMain::SdkRelease 
+[2022-07-21  16:23:59:868]ModuleCommon : info  :  the thread is out !!!,  info:Paics Manager, thread id:72044, nRet = 0
